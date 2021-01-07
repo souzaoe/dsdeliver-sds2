@@ -1,4 +1,4 @@
-package com.devsuperior.dsdeliver.config.services;
+package com.devsuperior.dsdeliver.services;
 
 import java.util.List;
 import java.util.stream.Collectors;
