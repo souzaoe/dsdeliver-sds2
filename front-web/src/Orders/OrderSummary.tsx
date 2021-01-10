@@ -1,4 +1,3 @@
-import { on } from "process";
 import { formatPrice } from "./helpers";
 
 type Props = {
